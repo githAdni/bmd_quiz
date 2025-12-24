@@ -4,7 +4,7 @@
 
 ## Introduction
 
-BMD Quiz ("we", "our", or "us") operates the BMD Quiz mobile application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App.
+Adni Quiz operates the BMD Quiz mobile application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App.
 
 ## Information Collection and Use
 
